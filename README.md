@@ -1,6 +1,8 @@
-DB
 
-logger
+# QLL Corona Toolkit
+
+Snippets and collections of usually used corona/lua functions
 
 
-config file
+http://qll.co
+
