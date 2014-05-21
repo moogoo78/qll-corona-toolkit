@@ -8,9 +8,13 @@ local options = {
 qtk.init(options)
 
 
+---- basic
 
+-- debug 
 qtk.logger('hello')
 
+-- show info
+qtk.info()
 
 ---- DB
 --local gdb = qtk.db.connect_db("YOURDB.sql")
